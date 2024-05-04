@@ -1,7 +1,7 @@
 <template>
     <div class="cart">
       <Navbar />
-      <div class="container">
+      <div class="container mb-5">
         <!-- breadcrumb -->
         <div class="row mt-4">
           <div class="col">
